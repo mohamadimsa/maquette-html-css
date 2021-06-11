@@ -1,3 +1,4 @@
+ce projet à était realiser dans le cadre de mes etude a la web@ccademie 
 # Compétences acquéris
 Lors de ce projet Je devais utiliser et maîtriser les outils suivants:
   * HTML5
